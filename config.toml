@@ -77,7 +77,11 @@ weight = 4
 ########################### Default parameters ##########################
 [params]
 logo = "images/logo.png"
+<<<<<<< HEAD
 logo_width = "75px"
+=======
+logo_width = "50px"
+>>>>>>> c15daccc49ba739222917d4872fa65b564bbed32
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
