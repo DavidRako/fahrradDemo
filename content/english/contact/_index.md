@@ -6,7 +6,7 @@ office:
   title : "Kontaktdaten"
   mobile : "(0451) 50 28 2 – 0"
   email : "info@bikeandride.de"
-  location : "Lübeck, Deutschland"
+  location : "Grapengießerstraße 34, 23556 Lübeck"
 
 # opennig hour
 opennig_hour:

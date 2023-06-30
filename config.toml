@@ -73,11 +73,16 @@ name = "Datenschutz-Bestimmungen"
 url = "privacy-policy/"
 weight = 4
 
+[[menu.footer]]
+name = "Impressum"
+url = "impressum/"
+weight = 3
+
 
 ########################### Default parameters ##########################
 [params]
-logo = "images/logo.png"
-logo_width = "75px"
+logo = "images/bike-and-ride-logo.png"
+logo_width = "200px"
 # Meta data
 description = "This is meta description"
 author = "Themefisher"
@@ -110,16 +115,3 @@ languageName = "De"
 languageCode = "de"
 contentDir = "content/english"
 weight = 1
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-theme = "tale"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"

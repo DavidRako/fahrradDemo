@@ -1,8 +1,11 @@
 ############################# banner ############################
 banner:
   enable: true
-  title: "Entdecken Sie die perfekte Fahrradwelt bei uns!"
-  content: "Willkommen in unserem Fahrradshop, Ihrem Ziel für erstklassige Fahrräder, Zubehör und Dienstleistungen. Mit einer Leidenschaft für Fahrradfahren und einem breiten Sortiment an hochwertigen Produkten sind wir der ideale Anlaufpunkt für alle Fahrradliebhaber und -enthusiasten. Egal, ob Sie nach einem zuverlässigen Stadtflitzer, einem robusten Mountainbike oder einem eleganten Rennrad suchen - bei uns finden Sie das perfekte Fahrrad, das Ihren Anforderungen und Ihrem Stil entspricht. Tauchen Sie ein in unsere Fahrradwelt und erleben Sie das pure Vergnügen des Radfahrens!"
+  title: "Entdecken Sie unsere hochwertigen Fahrradboxen!"
+  content: "Willkommen bei Bike and Ride!
+  Wir bieten Ihnen eine breite Auswahl an hochwertigen Fahrradboxen, die speziell entwickelt wurden, um Ihre Fahrräder sicher aufzubewahren und vor Diebstahl, Witterungseinflüssen und Beschädigungen zu schützen.
+  Egal ob Sie ein einzelnes Fahrrad oder mehrere Fahrräder besitzen, unsere Fahrradboxen bieten den idealen Stauraum. Entdecken Sie unser Sortiment und finden Sie die perfekte Fahrradbox, die Ihren Bedürfnissen gerecht wird.
+  Investieren Sie in die Sicherheit Ihrer Fahrräder und genießen Sie sorgenfreies Fahrradfahren!"
   image: "images/objekt.png"
   button:
     enable: true
@@ -18,49 +21,51 @@ features:
   # feature at the left of the image
   left_side:
     # feature item loop
-    - title: "Große Auswahl"
+    - title: "Breite Auswahl"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Unser Fahrradshop bietet eine umfangreiche Auswahl an Fahrrädern, Zubehör und Ersatzteilen. Egal, ob Sie ein Mountainbike, ein Rennrad, ein Citybike oder ein E-Bike suchen - wir haben für jeden Geschmack und jede Anforderung das passende Fahrrad."
+      content: "Bike and Ride bietet eine umfangreiche Auswahl an Fahrradboxen, sodass Sie die perfekte Option für Ihre individuellen Bedürfnisse und Anforderungen finden können."
 
       # feature item loop
-    - title: "Qualitätsprodukte"
+    - title: "Hohe Qualität"
       icon: "tf-ion-ios-bell-outline"
-      content: "Wir legen großen Wert auf qualitativ hochwertige Produkte. Alle Fahrräder und Zubehörteile in unserem Shop stammen von renommierten Herstellern und erfüllen höchste Standards in Sachen Haltbarkeit, Funktionalität und Sicherheit."
+      content: "Wir legen großen Wert auf Qualität und bieten nur Fahrradboxen von renommierten Herstellern an, die robust, langlebig und zuverlässig sind."
 
       # feature item loop
-    - title: "Kompetente Beratung"
+    - title: "Sicherheit und Schutz"
       icon: "tf-ion-ios-cart-outline"
-      content: "Unser Team besteht aus Fahrradexperten, die Ihnen gerne bei der Auswahl des richtigen Fahrrads und Zubehörs helfen. Wir nehmen uns Zeit für eine persönliche Beratung, um sicherzustellen, dass Sie das ideale Fahrrad für Ihre Bedürfnisse finden."
+      content: "Mit unseren Fahrradboxen können Sie sicher sein, dass Ihre Fahrräder vor Diebstahl, Vandalismus und den widrigsten Wetterbedingungen wie Regen, Schnee oder UV-Strahlung geschützt sind."
 
   # feature at the right of the image
   right_side:
     # feature item loop
-    - title: "Kundenservice"
+    - title: "Benutzerfreundlichkeit"
       icon: "tf-ion-ios-alarm-outline"
-      content: "Wir legen großen Wert auf exzellenten Kundenservice. Egal, ob es um Fragen vor dem Kauf, die Montage oder Reparatur Ihres Fahrrads geht - unser engagiertes Team steht Ihnen mit Rat und Tat zur Seite."
+      content: "Unsere Fahrradboxen zeichnen sich durch ihre einfache Handhabung aus und bieten Ihnen einen bequemen Zugang zu Ihren Fahrrädern. Mit intelligenten Öffnungs- und Schließsystemen sowie praktischen Funktionen wie Belüftung oder zusätzlichem Stauraum machen sie die Nutzung zum Kinderspiel."
 
       # feature item loop
-    - title: "Wettbewerbsfähige Preise"
+    - title: "Vielseitigkeit"
       icon: "tf-ion-ios-bell-outline"
-      content: "Wir bieten Ihnen erstklassige Fahrräder und Zubehör zu fairen und wettbewerbsfähigen Preisen an. Bei uns erhalten Sie ein ausgezeichnetes Preis-Leistungs-Verhältnis."
+      content: "Ob Sie ein einzelnes Fahrrad oder mehrere Fahrräder aufbewahren möchten, unser Sortiment umfasst Fahrradboxen in verschiedenen Größen, Formen und Materialien, um Ihren individuellen Anforderungen gerecht zu werden."
 
       # feature item loop
-    - title: "Schnelle Lieferung"
+    - title: "Kundenservice"
       icon: "tf-ion-ios-cart-outline"
-      content: "Wir sorgen für eine schnelle und zuverlässige Lieferung, damit Sie Ihr neues Fahrrad und Zubehör so schnell wie möglich genießen können"
+      content: "Unser engagiertes Kundenserviceteam steht Ihnen jederzeit zur Verfügung, um Ihnen bei Fragen, Beratung oder Problemen behilflich zu sein. Ihr Wohl liegt uns am Herzen, und wir streben danach, Ihnen ein optimales Einkaufserlebnis zu bieten, bei dem Sie sich gut betreut fühlen."
 
 ############################# promo ############################
 promo:
   enable: true
   image: "images/objekt.png"
-  title: "Erleben Sie den Komfort des E-Bike-Fahrens"
+  title: "Sichern Sie Ihre Fahrräder - Entdecken Sie erstklassigen Schutz in unserem Fahrradboxen-Sortiment!"
   content:
-    "Tauchen Sie ein in die Welt der elektrischen Mobilität mit unseren hochmodernen E-Bikes. Mit leistungsstarken Motoren und innovativer Technologie bieten unsere E-Bikes Ihnen ein neues Maß an Komfort und Freiheit auf der Straße. Genießen Sie müheloses Pendeln, längere Ausflüge und stressfreie Bergfahrten. Entdecken Sie die Vorteile des E-Bike-Fahrens und lassen Sie sich von unserer vielfältigen Auswahl an qualitativ hochwertigen E-Bikes begeistern. Machen Sie sich bereit, das Radfahren auf ein ganz neues Level zu bringen!"
+    "Willkommen auf unserer Website, Ihrem zuverlässigen Partner für hochwertige Fahrradboxen. Schützen Sie Ihre wertvollen Fahrräder vor Diebstahl und Witterungseinflüssen mit unseren robusten und sicheren Fahrradboxen.
+    Unsere breite Auswahl bietet für jeden Bedarf die passende Lösung.
+    Entdecken Sie noch heute unsere erstklassigen Fahrradboxen und sichern Sie sich Ihren Fahrspaß!"
 
 ############################# About Product #######################
 about_product:
   enable: true
-  title: "Warum Freeride?"
+  title: "Warum Bike and Ride?"
   items:
     # about product item loop
     - image: "images/showcase/bild4.JPG"
@@ -75,9 +80,9 @@ about_product:
 
     # about product item loop
     - image: "images/fahrradboxen-1.jpg"
-      title: "Sichern Sie Ihr Fahrrad mit Stil – Entdecken Sie unsere innovative Fahrradbox!"
+      title: "Ultimativer Schutz für Ihr Fahrrad - Entdecken Sie unsere sichere und robuste Fahrradbox!"
       content:
-        "Schützen Sie Ihr geliebtes Fahrrad vor Diebstahl, Wettereinflüssen und Schäden mit unserer revolutionären Fahrradbox. Unsere innovative Fahrradbox kombiniert modernes Design, höchste Sicherheitsstandards und praktische Funktionen für eine unvergleichliche Fahrradaufbewahrung. Mit ihrem robusten Material und intelligentem Schließmechanismus bietet sie ultimativen Schutz und gewährleistet gleichzeitig bequemen Zugriff auf Ihr Fahrrad. Egal, ob Sie es zuhause, im Büro oder unterwegs nutzen möchten – unsere Fahrradbox setzt neue Maßstäbe in Sachen Sicherheit und Stil. Entdecken Sie die Zukunft der Fahrradaufbewahrung und geben Sie Ihrem Fahrrad den Schutz, den es verdient!"
+        "Sorgen Sie für die optimale Sicherheit Ihres Fahrrads mit unserer hochwertigen Fahrradbox. Hergestellt aus strapazierfähigem Stahl und mit einem zuverlässigen Schließsystem ausgestattet, bietet sie einen ultimativen Schutz vor Diebstahl, Vandalismus und Witterungseinflüssen. Die großzügige Größe ermöglicht die Aufbewahrung von Fahrrad und Zubehör. Einfach zu montieren und mit einem ansprechenden Design versehen, fügt sich unsere Fahrradbox harmonisch in Ihre Umgebung ein. Vertrauen Sie auf Qualität und investieren Sie in den optimalen Schutz Ihres geliebten Fahrrads!"
 
       button:
         enable: true
