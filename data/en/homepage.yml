@@ -1,0 +1,121 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Entdecken Sie die perfekte Fahrradwelt bei uns!"
+  content: "Willkommen in unserem Fahrradshop, Ihrem Ziel für erstklassige Fahrräder, Zubehör und Dienstleistungen. Mit einer Leidenschaft für Fahrradfahren und einem breiten Sortiment an hochwertigen Produkten sind wir der ideale Anlaufpunkt für alle Fahrradliebhaber und -enthusiasten. Egal, ob Sie nach einem zuverlässigen Stadtflitzer, einem robusten Mountainbike oder einem eleganten Rennrad suchen - bei uns finden Sie das perfekte Fahrrad, das Ihren Anforderungen und Ihrem Stil entspricht. Tauchen Sie ein in unsere Fahrradwelt und erleben Sie das pure Vergnügen des Radfahrens!"
+  image: "images/objekt.png"
+  button:
+    enable: true
+    label: "Jetzt entdecken!"
+    link: "products/"
+
+############################# Feature ############################
+features:
+  enable: true
+  title: "Unsere Vorteile!"
+  image: "images/objekt-2.png"
+
+  # feature at the left of the image
+  left_side:
+    # feature item loop
+    - title: "Große Auswahl"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Unser Fahrradshop bietet eine umfangreiche Auswahl an Fahrrädern, Zubehör und Ersatzteilen. Egal, ob Sie ein Mountainbike, ein Rennrad, ein Citybike oder ein E-Bike suchen - wir haben für jeden Geschmack und jede Anforderung das passende Fahrrad."
+
+      # feature item loop
+    - title: "Qualitätsprodukte"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Wir legen großen Wert auf qualitativ hochwertige Produkte. Alle Fahrräder und Zubehörteile in unserem Shop stammen von renommierten Herstellern und erfüllen höchste Standards in Sachen Haltbarkeit, Funktionalität und Sicherheit."
+
+      # feature item loop
+    - title: "Kompetente Beratung"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Unser Team besteht aus Fahrradexperten, die Ihnen gerne bei der Auswahl des richtigen Fahrrads und Zubehörs helfen. Wir nehmen uns Zeit für eine persönliche Beratung, um sicherzustellen, dass Sie das ideale Fahrrad für Ihre Bedürfnisse finden."
+
+  # feature at the right of the image
+  right_side:
+    # feature item loop
+    - title: "Kundenservice"
+      icon: "tf-ion-ios-alarm-outline"
+      content: "Wir legen großen Wert auf exzellenten Kundenservice. Egal, ob es um Fragen vor dem Kauf, die Montage oder Reparatur Ihres Fahrrads geht - unser engagiertes Team steht Ihnen mit Rat und Tat zur Seite."
+
+      # feature item loop
+    - title: "Wettbewerbsfähige Preise"
+      icon: "tf-ion-ios-bell-outline"
+      content: "Wir bieten Ihnen erstklassige Fahrräder und Zubehör zu fairen und wettbewerbsfähigen Preisen an. Bei uns erhalten Sie ein ausgezeichnetes Preis-Leistungs-Verhältnis."
+
+      # feature item loop
+    - title: "Schnelle Lieferung"
+      icon: "tf-ion-ios-cart-outline"
+      content: "Wir sorgen für eine schnelle und zuverlässige Lieferung, damit Sie Ihr neues Fahrrad und Zubehör so schnell wie möglich genießen können"
+
+############################# promo ############################
+promo:
+  enable: true
+  image: "images/objekt.png"
+  title: "Erleben Sie den Komfort des E-Bike-Fahrens"
+  content:
+    "Tauchen Sie ein in die Welt der elektrischen Mobilität mit unseren hochmodernen E-Bikes. Mit leistungsstarken Motoren und innovativer Technologie bieten unsere E-Bikes Ihnen ein neues Maß an Komfort und Freiheit auf der Straße. Genießen Sie müheloses Pendeln, längere Ausflüge und stressfreie Bergfahrten. Entdecken Sie die Vorteile des E-Bike-Fahrens und lassen Sie sich von unserer vielfältigen Auswahl an qualitativ hochwertigen E-Bikes begeistern. Machen Sie sich bereit, das Radfahren auf ein ganz neues Level zu bringen!"
+
+############################# About Product #######################
+about_product:
+  enable: true
+  title: "Warum Freeride?"
+  items:
+    # about product item loop
+    - image: "images/showcase/bild4.JPG"
+      title: "Maximale Sicherheit und Komfort für Ihr Fahrrad - Entdecken Sie unsere Fahrradboxen!"
+      content:
+        "Schützen Sie Ihr wertvolles Fahrrad vor Diebstahl, Witterungseinflüssen und Beschädigungen mit unseren hochwertigen Fahrradboxen. Unsere Fahrradboxen bieten Ihnen maximale Sicherheit und Komfort, damit Sie Ihr Fahrrad jederzeit geschützt und einsatzbereit wissen. Egal, ob Sie Ihr Fahrrad zuhause, im Garten oder am Arbeitsplatz aufbewahren möchten - unsere Fahrradboxen sind die ideale Lösung. Entdecken Sie unser vielfältiges Sortiment an robusten und langlebigen Fahrradboxen und geben Sie Ihrem Fahrrad den Schutz, den es verdient. Sorgen Sie für ein sorgenfreies Fahrraderlebnis mit unseren Fahrradboxen!"
+
+      button:
+        enable: false
+        label: "Jetzt schauen!"
+        link: "#/"
+
+    # about product item loop
+    - image: "images/fahrradboxen-1.jpg"
+      title: "Sichern Sie Ihr Fahrrad mit Stil – Entdecken Sie unsere innovative Fahrradbox!"
+      content:
+        "Schützen Sie Ihr geliebtes Fahrrad vor Diebstahl, Wettereinflüssen und Schäden mit unserer revolutionären Fahrradbox. Unsere innovative Fahrradbox kombiniert modernes Design, höchste Sicherheitsstandards und praktische Funktionen für eine unvergleichliche Fahrradaufbewahrung. Mit ihrem robusten Material und intelligentem Schließmechanismus bietet sie ultimativen Schutz und gewährleistet gleichzeitig bequemen Zugriff auf Ihr Fahrrad. Egal, ob Sie es zuhause, im Büro oder unterwegs nutzen möchten – unsere Fahrradbox setzt neue Maßstäbe in Sachen Sicherheit und Stil. Entdecken Sie die Zukunft der Fahrradaufbewahrung und geben Sie Ihrem Fahrrad den Schutz, den es verdient!"
+
+      button:
+        enable: true
+        label: "Entdecken sie jetzt!"
+        link: "https://www.website-b.com/seite"
+
+#################################### Products ########################
+products:
+  enable: true
+  title: "Unsere Produkte"
+
+################################## Subscription ###################
+subscription:
+  enable: true
+  bg_image: "images/leute-auf-dem-fahrrad.jpg"
+  title: "Bleiben Sie auf dem neusten Stand!"
+  content: "Verpassen Sie keine neuen Nachrichten mehr, und melden Sie sich jetzt für den Newsletter an!"
+  placeholder: "E-Mail-Adresse eingeben"
+
+############################## Testimonial ##########################
+testimonial:
+  enable: true
+  title: "Unsere Rezessionen"
+  testimonial_item:
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "Der Fahrradshop Freeride hat uns in jeder Hinsicht beeindruckt. Das umfangreiche Sortiment an Fahrrädern und Zubehör lässt keine Wünsche offen. Die hohe Qualität der Produkte und die Auswahl renommierter Marken haben uns überzeugt. Das kompetente und freundliche Personal stand uns bei der Auswahl unseres Fahrrads mit fachkundiger Beratung zur Seite. Zudem bietet der Shop einen ausgezeichneten Kundenservice und schnelle Lieferzeiten. Bei Freeride erlebt man Fahrradshopping auf höchstem Niveau."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "Die übersichtliche und benutzerfreundliche Website ermöglicht eine bequeme Online-Bestellung. Die Kommunikation mit dem Kundenservice war stets prompt, professionell und freundlich. Die schnelle Abwicklung unserer Bestellung und die sorgfältige Verpackung haben uns beeindruckt. Die hohe Qualität der gelieferten Produkte hat unsere Erwartungen übertroffen."
+
+    # testimonial item loop
+    - name: "Jonathon Andrew"
+      designation: "CEO, Themefisher"
+      image: "images/avater.png"
+      content: "Das engagierte Team kennt sich bestens aus und hat uns mit ihrer Fachkompetenz beeindruckt. Die umfassenden Informationen zu den Produkten haben uns bei der Auswahl geholfen. Zudem bieten sie regelmäßig interessante Angebote und Aktionen, die das Einkaufserlebnis noch attraktiver machen. Die Qualität der Fahrräder und des Zubehörs ist herausragend. Bei Freeride findet man alles, was man für ein optimales Fahrerlebnis benötigt."
