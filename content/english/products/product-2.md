@@ -21,6 +21,6 @@ sizes : ["klein","mittel","groß"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: true
+draft: false
 ---
 Das KomfortPlus Fahrradhaus bietet die ideale Lösung für die sichere Aufbewahrung von Fahrrädern. Hergestellt aus hochwertigem Kunststoff, ist es wetterfest, langlebig und wartungsfrei. Mit seinen großzügigen Abmessungen bietet das Fahrradhaus Platz für mehrere Fahrräder sowie zusätzliches Zubehör. Das einfache Öffnungs- und Schließsystem ermöglicht einen bequemen Zugang zu den Fahrrädern. Mit Belüftungsöffnungen ausgestattet, gewährleistet das Fahrradhaus eine optimale Luftzirkulation und verhindert Feuchtigkeitsbildung. Schützen Sie Ihre Fahrräder im KomfortPlus Fahrradhaus zuverlässig vor Diebstahl und Witterungseinflüssen.

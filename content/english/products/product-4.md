@@ -21,6 +21,6 @@ sizes : ["klein","mittel","groß"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: true
+draft: false
 ---
 Das PremiumGuard Fahrradhaus ist die ultimative Lösung für die sichere Aufbewahrung Ihrer Fahrräder. Hergestellt aus hochwertigem Aluminium und mit einer robusten Verriegelung ausgestattet, bietet es einen hervorragenden Schutz vor Diebstahl und Vandalismus. Das geräumige Fahrradhaus bietet Platz für mehrere Fahrräder und verfügt über integrierte Regale zur Aufbewahrung von Zubehör. Mit seinem modernen und eleganten Design fügt es sich nahtlos in jeden Außenbereich ein. Das PremiumGuard Fahrradhaus ist die richtige Wahl für Fahrradliebhaber, die höchsten Sicherheitsansprüchen gerecht werden möchten.
