@@ -21,6 +21,6 @@ sizes : ["klein","mittel","groß"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: false
+draft: true
 ---
 Die EasyStash Fahrradbox bietet eine einfache und praktische Lösung zur sicheren Aufbewahrung Ihrer Fahrräder. Mit ihrem modernen Design und einer robusten Konstruktion aus Polypropylen bietet sie optimalen Schutz vor Diebstahl und Witterungseinflüssen. Die Fahrradbox ist leicht zu montieren und verfügt über eine großzügige Innenfläche, die ausreichend Platz für ein Fahrrad und Zubehör bietet. Dank der ergonomischen Formgebung und der einfachen Bedienung ist ein bequemer Zugang zu den Fahrrädern gewährleistet. Mit der EasyStash Fahrradbox bewahren Sie Ihre Fahrräder sicher und platzsparend auf.

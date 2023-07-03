@@ -22,6 +22,6 @@ sizes : ["klein","mittel","groß"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: false
+draft: true
 ---
 Die FlexiSpace Fahrradbox ist die flexible Lösung für die sichere Aufbewahrung Ihrer Fahrräder. Mit ihrem modularen Aufbau können Sie die Größe und Konfiguration der Box an Ihre individuellen Bedürfnisse anpassen. Hergestellt aus strapazierfähigem Kunststoff bietet sie zuverlässigen Schutz vor Diebstahl und Witterungseinflüssen. Die praktische Schiebetür ermöglicht einen bequemen Zugang zu den Fahrrädern. Dank der Flexibilität des Systems können Sie die Fahrradbox problemlos erweitern, um zusätzlichen Stauraum für Zubehör und andere Gegenstände zu schaffen. Die FlexiSpace Fahrradbox bietet Ihnen maximale Flexibilität und Sicherheit für Ihre Fahrräder.
