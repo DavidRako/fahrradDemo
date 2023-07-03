@@ -1,7 +1,7 @@
 ---
 title: "Datenschutzklärung"
 description : "this is a meta description"
-draft: true
+draft: false
 ---
 
 # 1. Datenschutz auf einen Blick

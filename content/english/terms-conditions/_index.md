@@ -1,7 +1,7 @@
 ---
 title: "Allgemeine Geschäftsbedingungen"
 description : "this is a meta description"
-draft: true
+draft: false
 ---
 
 # Geltungsbereich

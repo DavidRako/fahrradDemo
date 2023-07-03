@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 description : "this is a meta description"
-draft: true
+draft: false
 ---
 
 Angaben gemäß § 5 TMG
