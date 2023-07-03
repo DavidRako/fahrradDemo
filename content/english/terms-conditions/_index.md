@@ -4,8 +4,6 @@ description : "this is a meta description"
 draft: true
 ---
 
-## Allgemeine Geschäftsbedingungen (AGB) für die Firma Freeride
-
 # Geltungsbereich
 
 Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für sämtliche Geschäftsbeziehungen zwischen der Firma Freeride und ihren Kunden, die Dienstleistungen oder Produkte von Freeride in Anspruch nehmen.
