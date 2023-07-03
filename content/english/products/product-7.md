@@ -21,5 +21,6 @@ sizes : ["klein","mittel","groß"]
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
 
-draft: true
+draft: false
 ---
+Die EcoGuard Fahrradbox vereint umweltfreundliche Materialien mit zuverlässiger Sicherheit für Ihre Fahrräder. Hergestellt aus recyceltem Kunststoff bietet sie einen nachhaltigen Schutz vor Diebstahl und Witterungseinflüssen. Mit ihrem kompakten Design passt sie in jeden Außenbereich und bietet dennoch ausreichend Platz für ein Fahrrad und Zubehör. Die Fahrradbox ist einfach zu montieren und verfügt über eine verschließbare Tür für einen bequemen Zugang. Wählen Sie die EcoGuard Fahrradbox, um Ihre Fahrräder sicher und umweltbewusst aufzubewahren.
