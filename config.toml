@@ -84,8 +84,7 @@ weight = 3
 logo = "images/bike-and-ride-logo.png"
 logo_width = "200px"
 # Meta data
-description = "Fahrradparksysteme, Fahrradständer, Wartehallen, Überdachungen, Fahrradboxen bis zum kompletten System
- - Wir bieten preisgekrönte Stadtmöbel an."
+description = "Fahrradparksysteme, Fahrradständer, Wartehallen, Überdachungen, Fahrradboxen bis zum kompletten System - Wir bieten preisgekrönte Stadtmöbel an."
 author = "Themefisher"
 # currency
 currency = "€"
