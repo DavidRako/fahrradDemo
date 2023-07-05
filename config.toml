@@ -42,6 +42,11 @@ link = "https://cdn.snipcart.com/themes/v3.0.27/default/snipcart.js"
 
 # homepage section menu
 [[menu.main]]
+name = "Hauptmenü"
+url = "/vex/examplesite"
+weight = 2
+
+[[menu.main]]
 name = "Produkte"
 url = "products/"
 weight = 2
