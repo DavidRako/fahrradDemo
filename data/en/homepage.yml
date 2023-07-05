@@ -111,7 +111,7 @@ testimonial:
     - name: "Andreas Meyer"
       designation: "Wir-kaufen-dein-Fahrrad.de, Seit 2008"
       image: "images/avatar1.png"
-      content: "Der Fahrradshop Freeride hat uns in jeder Hinsicht beeindruckt. Das umfangreiche Sortiment an Fahrrädern und Zubehör lässt keine Wünsche offen. Die hohe Qualität der Produkte und die Auswahl renommierter Marken haben uns überzeugt. Das kompetente und freundliche Personal stand uns bei der Auswahl unseres Fahrrads mit fachkundiger Beratung zur Seite. Zudem bietet der Shop einen ausgezeichneten Kundenservice und schnelle Lieferzeiten. Bei Freeride erlebt man Fahrradshopping auf höchstem Niveau."
+      content: "Bike and Ride hat uns in jeder Hinsicht beeindruckt. Das umfangreiche Sortiment an Fahrrädern und Zubehör lässt keine Wünsche offen. Die hohe Qualität der Produkte und die Auswahl renommierter Marken haben uns überzeugt. Das kompetente und freundliche Personal stand uns bei der Auswahl unseres Fahrrads mit fachkundiger Beratung zur Seite. Zudem bietet der Shop einen ausgezeichneten Kundenservice und schnelle Lieferzeiten. Bei Freeride erlebt man Fahrradshopping auf höchstem Niveau."
 
     # testimonial item loop
     - name: "Patricia Peters"
@@ -123,4 +123,4 @@ testimonial:
     - name: "Fritz Heinrich"
       designation: "TÜV-Qualitätsprüfer, seit 1972"
       image: "images/avatar3.png"
-      content: "Das engagierte Team kennt sich bestens aus und hat uns mit ihrer Fachkompetenz beeindruckt. Die umfassenden Informationen zu den Produkten haben uns bei der Auswahl geholfen. Zudem bieten sie regelmäßig interessante Angebote und Aktionen, die das Einkaufserlebnis noch attraktiver machen. Die Qualität der Fahrräder und des Zubehörs ist herausragend. Bei Freeride findet man alles, was man für ein optimales Fahrerlebnis benötigt."
+      content: "Das engagierte Team kennt sich bestens aus und hat uns mit ihrer Fachkompetenz beeindruckt. Die umfassenden Informationen zu den Produkten haben uns bei der Auswahl geholfen. Zudem bieten sie regelmäßig interessante Angebote und Aktionen, die das Einkaufserlebnis noch attraktiver machen. Die Qualität der Fahrräder und des Zubehörs ist herausragend. Bei Bike and Ride findet man alles, was man für ein optimales Fahrerlebnis benötigt."
