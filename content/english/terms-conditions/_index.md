@@ -4,50 +4,52 @@ description : "this is a meta description"
 draft: false
 ---
 
-# Geltungsbereich
+## Geltungsbereich
 
-Diese Allgemeinen Geschäftsbedingungen (AGB) gelten für sämtliche Geschäftsbeziehungen zwischen der Firma Freeride und ihren Kunden, die Dienstleistungen oder Produkte von Freeride in Anspruch nehmen.
-Leistungen
+Die nachfolgenden Allgemeinen Geschäftsbedingungen regeln das Vertragsverhältnis zwischen Bike and Ride (nachfolgend "Verkäufer" genannt) und dem Kunden (nachfolgend "Käufer" genannt) in Bezug auf den Verkauf von Fahrradprodukten und -dienstleistungen.
 
-a) Freeride bietet verschiedene Dienstleistungen im Bereich des Freizeitsports an, einschließlich der Organisation und Durchführung von Freizeitaktivitäten, Verkauf von Sportausrüstung und Vermietung von Sportgeräten.
+## Vertragsabschluss
 
-b) Die genauen Leistungen, Preise und Bedingungen werden in separaten Verträgen, Angeboten oder auf der Website von Freeride festgelegt.
+2.1. Die Darstellung der Fahrradprodukte und -dienstleistungen im Online-Shop von Bike and Ride stellt kein bindendes Angebot dar, sondern eine Aufforderung zur Abgabe eines Angebots.
 
+2.2. Durch das Ausfüllen und Absenden des Bestellformulars gibt der Käufer ein verbindliches Angebot zum Kauf der ausgewählten Fahrradprodukte oder -dienstleistungen ab.
 
-# Vertragsschluss
+2.3. Der Verkäufer behält sich das Recht vor, das Angebot des Käufers innerhalb von 48 Stunden anzunehmen oder abzulehnen.
 
-a) Verträge zwischen Freeride und dem Kunden kommen durch eine schriftliche Vereinbarung, eine Auftragsbestätigung oder eine Bestellung zustande.
+## Preise und Zahlungsbedingungen
 
-b) Die Annahme von Angeboten oder Aufträgen von Freeride kann schriftlich, per E-Mail oder durch die tatsächliche Nutzung der Dienstleistungen oder Produkte von Freeride erfolgen.
+3.1. Die angegebenen Preise verstehen sich in Euro und enthalten die gesetzliche Mehrwertsteuer.
 
+3.2. Der Kaufpreis ist sofort nach Vertragsabschluss fällig und kann mittels der vom Verkäufer angebotenen Zahlungsmethoden beglichen werden.
 
-# Preise und Zahlungsbedingungen
+## Lieferung und Versand
 
-a) Die Preise für Dienstleistungen oder Produkte von Freeride werden in separaten Preislisten, Angeboten oder auf der Website von Freeride angegeben.
+4.1. Der Verkäufer wird die bestellten Fahrradprodukte innerhalb der angegebenen Lieferzeit an die vom Käufer angegebene Lieferadresse liefern.
 
-b) Zahlungen müssen innerhalb der vereinbarten Fristen erfolgen. Bei Verzug behält sich Freeride das Recht vor, Verzugszinsen und Mahngebühren zu erheben.
+4.2. Die Versandkosten werden dem Käufer vor Abschluss der Bestellung mitgeteilt und sind zusätzlich zum Kaufpreis zu entrichten.
 
+## Widerrufsrecht und Rücksendungen
 
-# Haftungsausschluss
-a) Freeride haftet nicht für Schäden, die durch unsachgemäße Nutzung der Dienstleistungen oder Produkte entstehen, es sei denn, sie beruhen auf grober Fahrlässigkeit oder Vorsatz von Freeride.
+5.1. Dem Käufer steht ein gesetzliches Widerrufsrecht zu. Die genauen Informationen hierzu sind in der separaten Widerrufsbelehrung des Verkäufers aufgeführt.
 
-b) Freeride haftet nicht für Verlust oder Beschädigung von persönlichen Gegenständen der Kunden während der Nutzung der Dienstleistungen von Freeride.
-Widerrufsrecht (nur bei Verbraucherverträgen)
+5.2. Rücksendungen von Fahrradprodukten sind nur innerhalb der angegebenen Fristen und unter Einhaltung der vom Verkäufer festgelegten Bedingungen möglich.
 
-c) Verbraucher haben das Recht, binnen 14 Tagen ab Vertragsschluss ohne Angabe von Gründen vom Vertrag zurückzutreten.
+## Gewährleistung und Haftung
 
-d) Nähere Informationen zum Widerrufsrecht und das entsprechende Widerrufsformular finden Sie auf der Website von Freeride.
+6.1. Der Verkäufer gewährleistet, dass die Fahrradprodukte zum Zeitpunkt der Übergabe frei von Mängeln sind.
 
+6.2. Eine darüber hinausgehende Haftung des Verkäufers für Schäden ist ausgeschlossen, es sei denn, der Schaden beruht auf Vorsatz oder grober Fahrlässigkeit des Verkäufers.
 
-# Datenschutz
-a) Freeride verarbeitet personenbezogene Daten der Kunden gemäß den geltenden Datenschutzgesetzen. Nähere Informationen finden Sie in der Datenschutzerklärung von Freeride.
+## Datenschutz
 
+7.1. Der Verkäufer verpflichtet sich, die persönlichen Daten des Käufers vertraulich zu behandeln und nur im Rahmen der gesetzlichen Bestimmungen zu verwenden.
 
-# Salvatorische Klausel
+7.2. Weitere Informationen zur Verarbeitung personenbezogener Daten sind in der separaten Datenschutzerklärung des Verkäufers zu finden.
 
-Sollte eine Bestimmung dieser AGB unwirksam oder undurchführbar sein, bleibt die Wirksamkeit der übrigen Bestimmungen davon unberührt. Anstelle der unwirksamen oder undurchführbaren Bestimmung tritt eine Regelung, die dem wirtschaftlichen Zweck der unwirksamen oder undurchführbaren Bestimmung am nächsten kommt.
-Anwendbares Recht und Gerichtsstand
+## Schlussbestimmungen
 
-a) Es gilt das Recht der Bundesrepublik Deutschland.
+8.1. Es gilt das Recht der Bundesrepublik Deutschland unter Ausschluss des UN-Kaufrechts.
 
-b) Ausschließlicher Gerichtsstand für alle Streitigkeiten aus oder im Zusammenhang mit diesen AGB ist der Geschäftssitz von Freeride.
+8.2. Sollten einzelne Bestimmungen dieser AGB unwirksam sein oder werden, berührt dies nicht die Wirksamkeit der übrigen Bestimmungen.
+
+8.3. Gerichtsstand für Streitigkeiten aus oder im Zusammenhang mit diesen AGB ist der Sitz des Verkäufers, sofern der Käufer Kaufmann, juristische Person des öffentlichen Rechts oder öffentlich-rechtliches Sondervermögen ist.
