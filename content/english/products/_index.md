@@ -1,5 +1,5 @@
 ---
 title: "Boxenauswahl"
-description : "this is a meta description"
+description : "Fahrradboxen bis zum kompletten Stadtmöbel System."
 draft: false
 ---

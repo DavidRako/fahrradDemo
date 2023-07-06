@@ -1,6 +1,6 @@
 ---
 title: "Kontakt"
-description : "this is a meta description"
+description : "... jederzeit für die Zukunft per E-Mail an info@bikeandride.de ..."
 
 office:
   title : "Kontaktdaten"

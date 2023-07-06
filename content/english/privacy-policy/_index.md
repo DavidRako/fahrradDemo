@@ -1,6 +1,6 @@
 ---
 title: "Datenschutzklärung"
-description : "this is a meta description"
+description : "Datenschutzklärung, Fahrradparksysteme, Fahrradständer, Wartehallen, Überdachungen, Fahrradboxen bis zum kompletten Stadtmöbel System."
 draft: false
 ---
 

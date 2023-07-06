@@ -1,6 +1,15 @@
 ---
 title: "Impressum"
-description : "this is a meta description"
+description : "Impressum
+
+Angaben gemäß § 5 TMG
+Bike and Ride Fahrradparksysteme GmbH
+Grapengießerstraße 34
+23556 Lübeck
+Handelsregister: HRB 5358
+Registergericht: Amtsgericht Lübeck
+Vertreten durch die Geschäftsführer:
+Dipl.-Kfm. Marc Morgenstern"
 draft: false
 ---
 
