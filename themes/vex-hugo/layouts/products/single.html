@@ -16,7 +16,8 @@
       <div class="col-lg-6 col-md-7 offset-lg-1">
         <h1 class="mb-4">{{ .Title }}</h1>
         {{ with .Params.colors }}<p><strong>Farbe: </strong>{{ delimit . " , " | title}}</p>{{ end }}
-        {{ with .Params.sizes }}<p><strong>Größe: </strong>{{ delimit . " , " | title}}</p>{{ end }}
+        {{ with .Params.sizes }}<p><strong>Größe(mm): </strong>{{ delimit . " , " | title}}</p>{{ end }}
+        {{ with .Params.edition }}<p><strong>Art: </strong>{{ delimit . " , " | title}}</p>{{ end }}
         <p class="price py-4">{{if .Params.discount_price}}{{.Params.discount_price}}{{site.Params.currency}}{{else}}{{site.Params.currency}}{{.Params.price}}{{end}}
         {{if .Params.discount_price}}<s class="price">{{ .Params.price }}{{site.Params.currency}}</s>{{end}}
         </p>
@@ -31,7 +32,7 @@
           data-item-custom1-options="{{range $index, $element:= .Params.colors}}{{ if eq $index 0 }}{{. | title}}{{ else }}|{{. | title }}{{end}}{{end}}"
           {{ end }}
           {{ if .Params.sizes }}
-          data-item-custom2-name="Größe:"
+          data-item-custom2-name="Größe(mm):"
           data-item-custom2-options="{{range $index, $element:= .Params.sizes}}{{if eq $index 0}}{{. | title}}{{else}}|{{. | title}}{{end}}{{end}}"
           {{end}}>{{i18n "add_to_cart"}}
         </button>

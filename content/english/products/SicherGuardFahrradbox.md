@@ -4,7 +4,7 @@ date: 2019-10-17T11:22:16+06:00
 images:
   - "images/showcase/SicherGuardFahrradbox.jpg"
   - "images/showcase/FlexiSpaceFahrradbox.jpg"
-  - "images/showcase/PremiumGuard.jpg"
+  - "images/showcase/PremiumGuardFahrradhaus.jpg"
   - "images/showcase/EasyStashFahrradbox.jpg"
 
 # meta description
@@ -15,8 +15,9 @@ price: "300.00"
 discount_price: "250.00"
 
 # product variation
-colors : ["schwarz","weiß","grau"]
-sizes : ["klein","mittel","groß"]
+colors : ["Atlantis","Satsuma","Concrete grey",Yellowish]
+sizes : ["5000x5800","10000x5800"]
+edition : ["MG"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"

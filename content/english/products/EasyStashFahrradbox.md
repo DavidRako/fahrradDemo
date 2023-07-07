@@ -15,8 +15,9 @@ price: "300.00"
 discount_price: "250.00"
 
 # product variation
-colors : ["schwarz","weiß","grau"]
-sizes : ["klein","mittel","groß"]
+colors : ["Yellowish","Satsuma","Hellbraun","Silber"]
+sizes : ["4480x4270","5000x3684","10000x3684"]
+edition : ["Beidseitig"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"

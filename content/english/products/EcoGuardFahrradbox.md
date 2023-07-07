@@ -4,7 +4,7 @@ date: 2019-10-17T11:22:16+06:00
 images:
   - "images/showcase/EcoGuardFahrradbox.jpg"
   - "images/showcase/SicherGuardFahrradbox.jpg"
-  - "images/showcase/PremiumGuard.jpg"
+  - "images/showcase/PremiumGuardFahrradhaus.jpg"
   - "images/showcase/EasyStashFahrradbox.jpg"
 
 # meta description
@@ -15,8 +15,9 @@ price: "300.00"
 discount_price: "250.00"
 
 # product variation
-colors : ["schwarz","weiß","grau"]
-sizes : ["klein","mittel","groß"]
+colors : ["Atlanits","Yellowish","concrete grey"]
+sizes : ["5000x2284","10000x2284"]
+edition : ["Einseitig"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"

@@ -15,8 +15,9 @@ price: "300.00"
 discount_price: "250.00"
 
 # product variation
-colors : ["schwarz","weiß","grau"]
-sizes : ["klein","mittel","groß"]
+colors : ["Concrete grey","Atlantis","Satsuma"]
+sizes : ["4480x2414","6070x2414","8690x2414","12900x2414"]
+edition : ["Standart"]
 
 # button link if you don't want to use snipcart. empty link will not show button
 button_link: "#"
