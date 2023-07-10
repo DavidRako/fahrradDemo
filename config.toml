@@ -1,6 +1,6 @@
 ################################### Default Configuration ############################
 baseurl = "https://demo.gethugothemes.com/vex/examplesite/"
-title = "Bike and Ride Fahrradboxen"
+title = "Fahrradboxen Lübeck Bike and Ride"
 theme = "vex-hugo"
 # post excert
 summarylength = "20"

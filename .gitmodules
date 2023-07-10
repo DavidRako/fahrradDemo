@@ -1,0 +1,3 @@
+[submodule "themes/SEO"]
+	path = themes/SEO
+	url = https://github.com/pprevos/hugo-thirdhemisphere
