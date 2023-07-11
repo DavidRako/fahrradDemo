@@ -173,6 +173,15 @@ a:active {
     line-height: 40px;
   }
 
+  h3 {
+    color: #3c3c3c;
+    padding-bottom: 15px;
+    text-transform: capitalize;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 40px;
+  }
+
   p {
     font-size: 17px;
     line-height: 24px;
@@ -614,7 +623,7 @@ textarea.form-control {
       font-weight: 500;
     }
   }
-  
+
   pre {
     padding: 10px 20px;
     background: #dadada;

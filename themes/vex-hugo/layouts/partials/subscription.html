@@ -6,7 +6,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-6 col-md-8 text-center mx-auto">
-        <h2 class="subheading text-white">{{ .title | markdownify }}</h2>
+        <h3 class="subheading text-white">{{ .title | markdownify }}</h3>
         <p class="text-white">{{ .content | markdownify }}</p>
         <div class="input-group">
           <form action="{{ site.Params.subscription.mailchimp_form_action }}" method="post" class="w-100" name="mc-embedded-subscribe-form" target="_blank">
