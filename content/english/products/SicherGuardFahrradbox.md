@@ -2,10 +2,10 @@
 title: "SicherGuard Fahrradbox"
 date: 2019-10-17T11:22:16+06:00
 images:
-  - "images/showcase/SicherGuardFahrradbox.jpg"
-  - "images/showcase/FlexiSpaceFahrradbox.jpg"
-  - "images/showcase/PremiumGuardFahrradhaus.jpg"
-  - "images/showcase/EasyStashFahrradbox.jpg"
+  - "images/showcase/SicherGuardFahrradbox.webp"
+  - "images/showcase/FlexiSpaceFahrradbox.webp"
+  - "images/showcase/PremiumGuardFahrradhaus.webp"
+  - "images/showcase/EasyStashFahrradbox.webp"
 
 # meta description
 description: "Die SicherGuard Fahrradbox bietet erstklassigen Schutz für Ihr Fahrrad. Hergestellt aus robustem Stahl und mit einem zuverlässigen Schließsystem versehen, schützt sie Ihr Fahrrad vor Diebstahl, Witterungseinflüssen und Beschädigungen. Die großzügige Größe der Fahrradbox bietet ausreichend Platz für ein Fahrrad und zusätzliches Zubehör. Mit ihrem ansprechenden Design fügt sie sich harmonisch in Ihren Garten oder Ihre Terrasse ein. Sorgen Sie für maximale Sicherheit und bewahren Sie Ihr Fahrrad in der SicherGuard Fahrradbox auf."

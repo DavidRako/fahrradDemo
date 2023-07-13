@@ -16,7 +16,7 @@ banner:
 features:
   enable: true
   title: "Unsere Vorteile!"
-  image: "images/objekt-2.png"
+  image: "images/fahrradboxen-2.webp"
 
   # feature at the left of the image
   left_side:
@@ -55,7 +55,7 @@ features:
 ############################# promo ############################
 promo:
   enable: true
-  image: "images/objekt.png"
+  image: "images/fahrradbox-2.webp"
   title: "Sichern Sie Ihre Fahrräder - Entdecken Sie erstklassigen Schutz in unserem Fahrradboxen-Sortiment!"
   content:
     "Willkommen auf unserer Website, Ihrem zuverlässigen Partner für hochwertige Fahrradboxen. Schützen Sie Ihre wertvollen Fahrräder vor Diebstahl und Witterungseinflüssen mit unseren robusten und sicheren Fahrradboxen.
@@ -68,7 +68,7 @@ about_product:
   title: "Warum Bike and Ride?"
   items:
     # about product item loop
-    - image: "images/showcase/bild4.jpg"
+    - image: "images/showcase/fahrradbox-1.webp"
       title: "Maximale Sicherheit und Komfort für Ihr Fahrrad - Entdecken Sie unsere Fahrradboxen!"
       content:
         "Schützen Sie Ihr wertvolles Fahrrad vor Diebstahl, Witterungseinflüssen und Beschädigungen mit unseren hochwertigen Fahrradboxen. Unsere Fahrradboxen bieten Ihnen maximale Sicherheit und Komfort, damit Sie Ihr Fahrrad jederzeit geschützt und einsatzbereit wissen. Egal, ob Sie Ihr Fahrrad zuhause, im Garten oder am Arbeitsplatz aufbewahren möchten - unsere Fahrradboxen sind die ideale Lösung. Entdecken Sie unser vielfältiges Sortiment an robusten und langlebigen Fahrradboxen und geben Sie Ihrem Fahrrad den Schutz, den es verdient. Sorgen Sie für ein sorgenfreies Fahrraderlebnis mit unseren Fahrradboxen!"
@@ -79,7 +79,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/fahrradboxen-1.jpg"
+    - image: "images/fahrradbox-1.webp"
       title: "Ultimativer Schutz für Ihr Fahrrad - Entdecken Sie unsere sichere und robuste Fahrradbox!"
       content:
         "Sorgen Sie für die optimale Sicherheit Ihres Fahrrads mit unserer hochwertigen Fahrradbox. Hergestellt aus strapazierfähigem Stahl und mit einem zuverlässigen Schließsystem ausgestattet, bietet sie einen ultimativen Schutz vor Diebstahl, Vandalismus und Witterungseinflüssen. Die großzügige Größe ermöglicht die Aufbewahrung von Fahrrad und Zubehör. Einfach zu montieren und mit einem ansprechenden Design versehen, fügt sich unsere Fahrradbox harmonisch in Ihre Umgebung ein. Vertrauen Sie auf Qualität und investieren Sie in den optimalen Schutz Ihres geliebten Fahrrads!"
@@ -97,7 +97,7 @@ products:
 ################################## Subscription ###################
 subscription:
   enable: true
-  bg_image: "images/leute-auf-dem-fahrrad.jpg"
+  bg_image: "images/leute-auf-dem-fahrrad.webp"
   title: "Bleiben Sie auf dem neusten Stand!"
   content: "Verpassen Sie keine neuen Nachrichten mehr, und melden Sie sich jetzt für den Newsletter an!"
   placeholder: "E-Mail-Adresse eingeben"
@@ -110,17 +110,17 @@ testimonial:
     # testimonial item loop
     - name: "Andreas Meyer"
       designation: "Wir-kaufen-dein-Fahrrad.de, Seit 2008"
-      image: "images/avatar1.png"
+      image: "images/avatar1.webp"
       content: "Bike and Ride hat uns in jeder Hinsicht beeindruckt. Das umfangreiche Sortiment an Fahrrädern und Zubehör lässt keine Wünsche offen. Die hohe Qualität der Produkte und die Auswahl renommierter Marken haben uns überzeugt. Das kompetente und freundliche Personal stand uns bei der Auswahl unseres Fahrrads mit fachkundiger Beratung zur Seite. Zudem bietet der Shop einen ausgezeichneten Kundenservice und schnelle Lieferzeiten. Bei Freeride erlebt man Fahrradshopping auf höchstem Niveau."
 
     # testimonial item loop
     - name: "Patricia Peters"
       designation: "Bild-Redaktoin für Fahrräder, seit 1975"
-      image: "images/avatar2.png"
+      image: "images/avatar2.webp"
       content: "Die übersichtliche und benutzerfreundliche Website ermöglicht eine bequeme Online-Bestellung. Die Kommunikation mit dem Kundenservice war stets prompt, professionell und freundlich. Die schnelle Abwicklung unserer Bestellung und die sorgfältige Verpackung haben uns beeindruckt. Die hohe Qualität der gelieferten Produkte hat unsere Erwartungen übertroffen."
 
     # testimonial item loop
     - name: "Fritz Heinrich"
       designation: "TÜV-Qualitätsprüfer, seit 1972"
-      image: "images/avatar3.png"
+      image: "images/avatar3.webp"
       content: "Das engagierte Team kennt sich bestens aus und hat uns mit ihrer Fachkompetenz beeindruckt. Die umfassenden Informationen zu den Produkten haben uns bei der Auswahl geholfen. Zudem bieten sie regelmäßig interessante Angebote und Aktionen, die das Einkaufserlebnis noch attraktiver machen. Die Qualität der Fahrräder und des Zubehörs ist herausragend. Bei Bike and Ride findet man alles, was man für ein optimales Fahrerlebnis benötigt."
