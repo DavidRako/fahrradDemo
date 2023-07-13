@@ -6,7 +6,7 @@ banner:
   Wir bieten Ihnen eine breite Auswahl an hochwertigen Fahrradboxen, die speziell entwickelt wurden, um Ihre Fahrräder sicher aufzubewahren und vor Diebstahl, Witterungseinflüssen und Beschädigungen zu schützen.
   Egal ob Sie ein einzelnes Fahrrad oder mehrere Fahrräder besitzen, unsere Fahrradboxen bieten den idealen Stauraum. Entdecken Sie unser Sortiment und finden Sie die perfekte Fahrradbox, die Ihren Bedürfnissen gerecht wird.
   Investieren Sie in die Sicherheit Ihrer Fahrräder und genießen Sie sorgenfreies Fahrradfahren!"
-  image: "images/objekt.png"
+  image: "images/fahrradbox-2.webp"
   button:
     enable: true
     label: "Jetzt entdecken!"
@@ -79,7 +79,7 @@ about_product:
         link: "#/"
 
     # about product item loop
-    - image: "images/fahrradbox-1.webp"
+    - image: "images/fahrradboxen-2.webp"
       title: "Ultimativer Schutz für Ihr Fahrrad - Entdecken Sie unsere sichere und robuste Fahrradbox!"
       content:
         "Sorgen Sie für die optimale Sicherheit Ihres Fahrrads mit unserer hochwertigen Fahrradbox. Hergestellt aus strapazierfähigem Stahl und mit einem zuverlässigen Schließsystem ausgestattet, bietet sie einen ultimativen Schutz vor Diebstahl, Vandalismus und Witterungseinflüssen. Die großzügige Größe ermöglicht die Aufbewahrung von Fahrrad und Zubehör. Einfach zu montieren und mit einem ansprechenden Design versehen, fügt sich unsere Fahrradbox harmonisch in Ihre Umgebung ein. Vertrauen Sie auf Qualität und investieren Sie in den optimalen Schutz Ihres geliebten Fahrrads!"
